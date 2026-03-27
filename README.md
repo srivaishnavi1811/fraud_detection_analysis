@@ -34,13 +34,3 @@ Finally, I used **Joblib** to export the trained model (`fraud_model_final.pkl`)
 
 ---
 
-### The "Bottom Line" Impact
-| Metric | Manual Review | My AI Solution |
-| :--- | :--- | :--- |
-| **Speed** | 10-20 Minutes | ~0.01 Seconds |
-| **Consistency** | Low (Human Fatigue) | 100% Consistent |
-| **Scalability** | Requires more staff | Handles millions of rows |
-
----
-
-> "By moving from manual to automated detection, we don't just save time; we create a system that is proactive rather than reactive."
